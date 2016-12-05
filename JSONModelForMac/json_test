@@ -1,0 +1,32 @@
+{
+    "name": "baidu",
+    "url": "http://www.baidu.com",
+    "page": 88,
+    "isNonProfit": true,
+    "address": {
+        "street": "后厂.",
+        "city": "北京",
+        "country": "中国",
+        "isNull": null,
+        "subAddress": {
+            "street": "后厂.",
+            "city": "北京",
+            "country": "中国",
+            "isNull": null
+        }
+    },
+    "links": [
+        {
+            "name": "Google",
+            "url": "http://www.qq.com"
+        },
+        {
+            "name": "Baidu",
+            "url": "http://www.baidu.com"
+        },
+        {
+            "name": "SoSo",
+            "url": "http://www.SoSo.com"
+        }
+    ]
+}
