@@ -1,0 +1,2 @@
+# JSONModelForMac
+将JSON格式的字符串转换成为OC或Swif可用的模型文件
