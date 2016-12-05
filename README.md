@@ -12,6 +12,7 @@
 
 * ⌘ + 回车 : JSON转模型
 * ⌘ + S : 保存成为模型文件
+
 ![show-1](https://github.com/JerryLoveRice/JSONModelForMac/blob/master/Source/git1.png)
 
 ![show-2](https://github.com/JerryLoveRice/JSONModelForMac/blob/master/Source/git2.png)
