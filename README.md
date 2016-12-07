@@ -13,9 +13,9 @@
 * ⌘ + 回车 : JSON转模型
 * ⌘ + S : 保存成为模型文件
 
-![show-1](blob/master/Source/git1.png)
+![show-1](Source/git1.png)
 
-![show-2](/blob/master/Source/git2.png)
+![show-2](Source/git2.png)
 
 ## 如何使用
 点击[<img src="https://cloud.githubusercontent.com/assets/219689/5575342/963e0ee8-9013-11e4-8091-7ece67d64729.png" width="135" height="40" alt="AppStore"/>](https://itunes.apple.com/us/app/jsonmodelformac/id1182877418?l=zh&ls=1&mt=12)
